@@ -14,7 +14,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": 
+          "apiKey": ""
         }
       },
       "adaptiveIcon": {
@@ -48,7 +48,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "groqApiKey": "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"
+      "groqApiKey": ""
     }
     
   }
